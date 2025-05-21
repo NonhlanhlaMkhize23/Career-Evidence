@@ -2,7 +2,6 @@
 ## 1.Career Counselling
 ### Evidence: 
 Attended a career counselling session facilitated by CPUT career advisors.
-
 ### Reflection
 **Situation:** As a final-year student, i participated by career advisors.
 **Tasks:** The goal was to better understand job serach strategies and career opportunities.
@@ -15,12 +14,10 @@ Attended a career counselling session facilitated by CPUT career advisors.
 - Critical thinking (thinking outisde the box)
 - Leadership Skills
 - Good Listener
-  
 **IT Interest:**
   - Working hands on with network cables
   - Cybersecurity
   - Cloud computing
-    
   ### Reflection:
   **Situation:** During group projects and technical sessions, i observed how i engage with tasks.
   **Task:** I needed to understand and identify my strongest personal and professional skills.
@@ -42,9 +39,8 @@ Completed a personality assessment via 16Personalities.
   ## 4. Create a cv
   ### Evidence: 
   [view  MY cv]()
-
   ### Reflection:
-  **Situation:** As part of the work readiness training, I was required to complie a professuonal CV.
+  **Situation:** As part of the work readiness training, I was required to complie a professional CV.
   **Task:** I had to showcase my qualifications, experience, and key skills.
   **Action:** I included my academic ground, certificates, technical skills (like LINUX ,Packet tracer, and network troubleshooting), and project experience.
   **Results:** I now have a professional CV that reflects who I am in the IT field and supports my applications for internships and graduate roles.
@@ -58,7 +54,6 @@ Submitted to CV:
 -NetCampus
 -FrogFoot
 -Nclose 
-
 ### Reflection:
 **Situation:** I am actively applying for internship or graduate positions.  
 **Task:** Submit my CV to several IT companies and service providers.  
