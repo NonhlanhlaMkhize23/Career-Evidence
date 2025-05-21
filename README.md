@@ -31,7 +31,8 @@ Attended a career counselling session facilitated by CPUT career advisors.
   **Result:** I recognized that i'm a critical thinker, able  to appraochproblems from differnet angles, take initiative in leading teams, and actively listen to others which improves  collaboration.
 
 ## 3.Personality Assessent 
-### Evidence:
+### Evidence:![Screenshot 2025-05-21 154547](https://github.com/user-attachments/assets/1569f869-0e18-4093-a0a1-e2e4ecce001b)
+
 Completed a personality assessment via 16Personalities.
 **Resullts:** [ENFJ-T – The Protagonist](https://www.16personalities.com/enfj-personality)
 **Traits:** Charismatic, Empathetic, Inspiring , Visionary and People-Focused
