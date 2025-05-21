@@ -2,6 +2,7 @@
 ## 1.Career Counselling
 ### Evidence: 
 Attended a career counselling session facilitated by CPUT career advisors.
+
 ### Reflection
 **Situation:** As a final-year student, i participated by career advisors.
 **Tasks:** The goal was to better understand job serach strategies and career opportunities.
@@ -13,11 +14,13 @@ Attended a career counselling session facilitated by CPUT career advisors.
 **Top 3 Skills:**
 - Critical thinking (thinking outisde the box)
 - Leadership Skills
-- Good Listener 
+- Good Listener
+  
 **IT Interest:**
   - Working hands on with network cables
   - Cybersecurity
   - Cloud computing
+    
   ### Reflection:
   **Situation:** During group projects and technical sessions, i observed how i engage with tasks.
   **Task:** I needed to understand and identify my strongest personal and professional skills.
@@ -29,7 +32,6 @@ Attended a career counselling session facilitated by CPUT career advisors.
 Completed a personality assessment via 16Personalities.
 **Resullts:** [ENFJ-T – The Protagonist](https://www.16personalities.com/enfj-personality)
 **Traits:** Charismatic, Empathetic, Inspiring , Visionary and People-Focused
-
 ### Reflection: 
 **Situation:** I took a personlity assessment to gain deeper insight into how i operate and communicate in group and work environments.
 **Task:** Understand my core strengths and how they align with my future  career.
