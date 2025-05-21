@@ -1,4 +1,5 @@
 # Digital Portfolio Career Evidence
+Nonhlanhla Mkhize_Communication Network Student_ Student Number_230070892 
 ## 1.Career Counselling
 ### Evidence: 
 Attended a career counselling session facilitated by CPUT career advisors.
