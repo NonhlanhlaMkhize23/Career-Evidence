@@ -1,8 +1,10 @@
 # Digital Portfolio Career Evidence
-Nonhlanhla Mkhize_Communication Network Student_ Student Number_230070892 
+## Nonhlanhla Mkhize_Communication Network Student_ Student Number_230070892 
+
 ## 1.Career Counselling
 ### Evidence: 
 Attended a career counselling session facilitated by CPUT career advisors.
+
 ![CAREER DEVELOPMENT](https://github.com/user-attachments/assets/6668a639-52cc-482c-8638-4e0be1dc15c1)
 
 ### Reflection
@@ -13,6 +15,7 @@ Attended a career counselling session facilitated by CPUT career advisors.
 
 ## 2.Skills and Interests
 ### Evidence:
+
 ![Screenshot 2025-05-21 154314](https://github.com/user-attachments/assets/306e8bf8-0054-458c-93bb-3de59e520553)
 
 **Top 3 Skills:**
@@ -32,6 +35,7 @@ Attended a career counselling session facilitated by CPUT career advisors.
   **Result:** I recognized that i'm a critical thinker, able  to appraochproblems from differnet angles, take initiative in leading teams, and actively listen to others which improves  collaboration.
 
 ## 3.Personality Assessent 
+
 ### Evidence:![Screenshot 2025-05-21 154547](https://github.com/user-attachments/assets/1569f869-0e18-4093-a0a1-e2e4ecce001b)
 
 Completed a personality assessment via 16Personalities.
@@ -47,6 +51,7 @@ Completed a personality assessment via 16Personalities.
 
   ## 4. Create a CV
   ### Evidence: 
+  
   [RESUME.pdf](https://github.com/user-attachments/files/20371455/RESUME.pdf)
 
   ### Reflection:
@@ -57,6 +62,7 @@ Completed a personality assessment via 16Personalities.
 
 ## 5. CV Submission 
 ### Evidence: 
+
 Submitted to CV:
 -Amazon
 -Cyber Smart
