@@ -12,7 +12,6 @@ Attended a career counselling session facilitated by CPUT career advisors.
 
 ## 2.Skills and Interests
 ### Evidence:
-![Skills and Interests](https://1drv.ms/i/c/131de52bdd12dd2c/EZnCZIzkuEpOmnxovsnMTx4B7U4MOmmiKnkua8GL1SfZ_g?e=UL4AWb)
 **Top 3 Skills:**
 - Critical thinking (thinking outisde the box)
 - Leadership Skills
