@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cab58031-473b-4a41-a948-570f9560d6c2)# Digital Portfolio Career Evidence
+# Digital Portfolio Career Evidence
 ## 1.Career Counselling
 ### Evidence: 
 Attended a career counselling session facilitated by CPUT career advisors.
