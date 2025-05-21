@@ -40,7 +40,7 @@ Completed a personality assessment via 16Personalities.
            This profile describes someone with strong emotional intelligence, leadership potential, and a passion for making a difference.
 **Results** The description really hit home, i do care deeply about people and i naturally try to inspire and uplift those around me. It confirmed that i'm well-suited for  roles that require  collaboartion,              support, motivation, and clear communication.I now better understand how i can use my strengths to lead and grow in the IT industry.
 
-  ## 4. Create a cv
+  ## 4. Create a CV
   ### Evidence: 
   [view  MY cv]()
   ### Reflection:
