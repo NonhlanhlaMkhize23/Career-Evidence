@@ -3,7 +3,6 @@
 
 ## 1.Career Counselling
 ### Evidence: 
-Attended a career counselling session facilitated by CPUT career advisors.
 
 ![CAREER DEVELOPMENT](https://github.com/user-attachments/assets/6668a639-52cc-482c-8638-4e0be1dc15c1)
 
