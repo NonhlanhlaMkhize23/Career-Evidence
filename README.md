@@ -46,7 +46,8 @@ Completed a personality assessment via 16Personalities.
 
   ## 4. Create a CV
   ### Evidence: 
-  [view  MY cv]()
+  [RESUME.pdf](https://github.com/user-attachments/files/20371455/RESUME.pdf)
+
   ### Reflection:
   **Situation:** As part of the work readiness training, I was required to complie a professional CV.
   **Task:** I had to showcase my qualifications, experience, and key skills.
