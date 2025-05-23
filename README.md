@@ -7,10 +7,9 @@
 ![CAREER DEVELOPMENT](https://github.com/user-attachments/assets/6668a639-52cc-482c-8638-4e0be1dc15c1)
 
 ### Reflection
-**Situation:** As a final-year student, i participated by career advisors.
-**Tasks:** The goal was to better understand job serach strategies and career opportunities.
-**Action:** I engaged in interactive discussions and listened to expert advice on CV building ,interview skills, and how to reserach job platfors.
-**Results:** I learnt a lot hey! I now know how to navigate job options, what steps to take after graduating, and how to actively look for job opportunities using platfroms like LinkedIn, company websites, and             career fairs.
+**Completing the Career Development module was a powerful experience for me as an IT Communication Networks student. It gave me a clear understanding of why setting goals is so important.It’s like creating a roadmap for my career. I’ve learned that effective career counselling should help you understand yourself better, highlight your strengths, and guide your growth. This process made me realise that I’m not just working through modules to pass, but I’m building a future with real intention. The primary goal of career development isn’t just about finding a job, it’s about becoming the best version of yourself and making sure each step you take aligns with your long-term vision.
+
+**One major takeaway for me was how vital career planning and hard skills are in my field. Planning helps me stay focused, not just for the semester but for the future I want whether it’s internships, certifications, or leadership roles in networking and cybersecurity. Understanding the importance of hard skills like configuring networks or working with Linux reminded me that success in IT means being able to apply your knowledge in real situations. This module reminded me that I’m not just a student—I'm a future industry leader in the making. Now, I’m moving with purpose, strategy, and confidence in what I bring to the table
 
 ## 2.Skills and Interests
 ### Evidence:
