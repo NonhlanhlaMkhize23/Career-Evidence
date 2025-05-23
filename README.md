@@ -53,7 +53,7 @@ Submitted to CV:
 -Nclose 
 
 ### Reflection:
-Submitting my CV marked a big step in my career journey—it wasn’t just a task, it was a personal statement. After learning about how to structure it properly through the module, I made sure my CV reflected both my technical skills in IT Communication Networks and my soft skills like leadership, critical thinking, and communication. This submission was me saying, "I’m ready to enter the industry." It felt empowering to put myself out there with a professional document that tells my story confidently and clearly.
+Submitting my CV marked a big step in my career journey it wasn’t just a task, it was a personal statement. After learning about how to structure it properly through the module, I made sure my CV reflected both my technical skills in IT Communication Networks and my soft skills like leadership, critical thinking, and communication. This submission was me saying, "I’m ready to enter the industry." It felt empowering to put myself out there with a professional document that tells my story confidently and clearly.
 
 This experience also reminded me that a CV is not a one-time thing it’s something I’ll keep updating as I grow. Submitting it wasn’t the end of the process, but the beginning of putting myself in spaces where I belong. Whether it’s internships, graduate roles, or in-service training, I am prepared and positioned to show up with purpose and potential.
   
