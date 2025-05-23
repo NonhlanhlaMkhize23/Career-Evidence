@@ -45,12 +45,10 @@ I realized that the skills section is not just about listing random abilities, b
 ### Evidence: 
 
 Submitted to CV:
--Amazon
--Cyber Smart
--IT Bemba Solutions
--NetCampus
--FrogFoot
--Nclose 
+
+![WhatsApp Image 2025-05-23 at 18 00 35_5547cfb5](https://github.com/user-attachments/assets/e915576d-4eaa-44e0-8cbc-b8a99c0c8d5c)
+![WhatsApp Image 2025-05-23 at 18 00 35_c8310800](https://github.com/user-attachments/assets/66da230e-0f16-4464-bb11-c1ef4581d60e)
+![WhatsApp Image 2025-05-23 at 18 00 35_07e8e68b](https://github.com/user-attachments/assets/04fe56d3-ad5c-4172-b748-4b0bec1a7db6)
 
 ### Reflection:
 Submitting my CV marked a big step in my career journey it wasn’t just a task, it was a personal statement. After learning about how to structure it properly through the module, I made sure my CV reflected both my technical skills in IT Communication Networks and my soft skills like leadership, critical thinking, and communication. This submission was me saying, "I’m ready to enter the industry." It felt empowering to put myself out there with a professional document that tells my story confidently and clearly.
