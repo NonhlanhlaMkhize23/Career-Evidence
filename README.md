@@ -6,7 +6,7 @@
 
 ![CAREER DEVELOPMENT](https://github.com/user-attachments/assets/6668a639-52cc-482c-8638-4e0be1dc15c1)
 
-### Reflection
+### Reflection:
 Completing the Career Development module was a powerful experience for me as an IT Communication Networks student. It gave me a clear understanding of why setting goals is so important.It’s like creating a roadmap for my career. I’ve learned that effective career counselling should help you understand yourself better, highlight your strengths, and guide your growth. This process made me realise that I’m not just working through modules to pass, but I’m building a future with real intention. The primary goal of career development isn’t just about finding a job, it’s about becoming the best version of yourself and making sure each step you take aligns with your long-term vision.
 
 One major takeaway for me was how vital career planning and hard skills are in my field. Planning helps me stay focused, not just for the semester but for the future I want whether it’s internships, certifications, or leadership roles in networking and cybersecurity. Understanding the importance of hard skills like configuring networks or working with Linux reminded me that success in IT means being able to apply your knowledge in real situations. This module reminded me that I’m not just a student I'm a future industry leader in the making. Now, I’m moving with purpose, strategy, and confidence in what I bring to the table
@@ -25,16 +25,10 @@ The activity on interests really helped me reflect on what excites me beyond jus
 
 ### Evidence:![Screenshot 2025-05-21 154547](https://github.com/user-attachments/assets/1569f869-0e18-4093-a0a1-e2e4ecce001b)
 
-Completed a personality assessment via 16Personalities.
-**Resullts:** [ENFJ-T – The Protagonist](https://www.16personalities.com/enfj-personality)
-**Traits:** Charismatic, Empathetic, Inspiring , Visionary and People-Focused
-
 ### Reflection: 
-**Situation:** I took a personlity assessment to gain deeper insight into how i operate and communicate in group and work environments.
-**Task:** Understand my core strengths and how they align with my future  career.
-**Action:** I completed th 16Persinalities test and recieved the ENFJ-T (Protagonist) result.
-           This profile describes someone with strong emotional intelligence, leadership potential, and a passion for making a difference.
-**Results** The description really hit home, i do care deeply about people and i naturally try to inspire and uplift those around me. It confirmed that i'm well-suited for  roles that require  collaboartion,              support, motivation, and clear communication.I now better understand how i can use my strengths to lead and grow in the IT industry.
+Finishing the Personality Assessment module with 100% gave me a real boost! It helped me understand how linking your personality with the right career path can make all the difference. I learned that personality-career matching isn’t just about finding what you can do it’s about finding what feels natural and fulfilling. For someone like me, who enjoys structured environments but also values creativity and leadership, knowing where I fit on the spectrum of personality types gives me direction when choosing roles or even specialisations in the IT world.
+
+Learning about different personality types like Realistic, Artistic, and Conventional helped me appreciate the diversity in career choices. While some people love hands-on, practical work, others thrive in creative or organized environments. I recognised myself in some of these traits, especially the ones linked to system-based thinking and structured problem solving which fits perfectly with careers in networking and cybersecurity. This module didn’t just tell me who I am; it gave me clues on where I’d shine brightest. I'm not just building skills ,I am building a career that matches my vibe. 
 
   ## 4. Create a CV
   ### Evidence: 
