@@ -15,23 +15,12 @@ One major takeaway for me was how vital career planning and hard skills are in m
 ### Evidence:
 
 ![Screenshot 2025-05-21 154314](https://github.com/user-attachments/assets/306e8bf8-0054-458c-93bb-3de59e520553)
-
-**Top 3 Skills:**
-- Critical thinking (thinking outisde the box)
-- Leadership Skills
-- Good Listener
-  
-**IT Interest:**
-  - Working hands on with network cables
-  - Cybersecurity
-  - Cloud computing
     
   ### Reflection:
-  **Situation:** During group projects and technical sessions, i observed how i engage with tasks.
-  **Task:** I needed to understand and identify my strongest personal and professional skills.
-  **Action:** I reflected on past experience-debate tournamnets,lab sessions, and group leadership.
-  **Result:** I recognized that i'm a critical thinker, able  to appraochproblems from differnet angles, take initiative in leading teams, and actively listen to others which improves  collaboration.
-
+ Working through the Skills and Interests module was an important reminder of how knowing myself is key to building a successful IT career. Scoring 80% showed me I have a good foundation, but there’s still room to grow. I learned how values shape the kind of work environment and roles I’ll thrive in whether it’s teamwork, innovation, or making an impact. Understanding that skills aren’t just about what I’m good at now, but also include transferable skills I can carry into any role, helped me realise how flexible and adaptable I can be in the tech space.
+ 
+The activity on interests really helped me reflect on what excites me beyond just academics. Knowing that interests can guide career satisfaction made me think about how I can align my passion for network cabling, cybersecurity, and cloud computing with real job roles. This module helped me connect the dots between who I am, what I love, and where I’m going. I now feel more confident making career decisions that are aligned not just with what I can do, but what truly drives me.
+ 
 ## 3.Personality Assessent 
 
 ### Evidence:![Screenshot 2025-05-21 154547](https://github.com/user-attachments/assets/1569f869-0e18-4093-a0a1-e2e4ecce001b)
