@@ -53,9 +53,7 @@ Submitted to CV:
 -Nclose 
 
 ### Reflection:
-**Situation:** I am actively applying for internship or graduate positions.  
-**Task:** Submit my CV to several IT companies and service providers.  
-**Action:** I searched for companies aligned with my interests (networking, cybersecurity, cloud), tailored my CV for each application, and submitted it via email or their portals.  
-**Result:** I feel more confident with each submission and I’m hopeful that my efforts will lead to valuable in-service training or employment in the near future.
-  
+Submitting my CV marked a big step in my career journey—it wasn’t just a task, it was a personal statement. After learning about how to structure it properly through the module, I made sure my CV reflected both my technical skills in IT Communication Networks and my soft skills like leadership, critical thinking, and communication. This submission was me saying, "I’m ready to enter the industry." It felt empowering to put myself out there with a professional document that tells my story confidently and clearly.
+
+This experience also reminded me that a CV is not a one-time thing it’s something I’ll keep updating as I grow. Submitting it wasn’t the end of the process, but the beginning of putting myself in spaces where I belong. Whether it’s internships, graduate roles, or in-service training, I am prepared and positioned to show up with purpose and potential.
   
