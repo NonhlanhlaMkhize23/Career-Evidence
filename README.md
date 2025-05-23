@@ -36,11 +36,11 @@ Learning about different personality types like Realistic, Artistic, and Convent
   [RESUME.pdf](https://github.com/user-attachments/files/20371455/RESUME.pdf)
 
   ### Reflection:
-  **Situation:** As part of the work readiness training, I was required to complie a professional CV.
-  **Task:** I had to showcase my qualifications, experience, and key skills.
-  **Action:** I included my academic ground, certificates, technical skills (like LINUX ,Packet tracer, and network troubleshooting), and project experience.
-  **Results:** I now have a professional CV that reflects who I am in the IT field and supports my applications for internships and graduate roles.
+Going through the Create a CV module was a solid learning experience that showed me how important it is to market myself professionally. I scored 80%, which reminded me that while I know the basics, there’s still room to polish up my CV game. I learned that the main purpose of a CV is to showcase your value to potential employers not just a list of qualifications, but a snapshot of who you are, what you can do, and what you bring to the table. It also helped me understand the importance of the work experience section, where I should highlight relevant roles in reverse chronological order to show growth and consistency.
 
+I realized that the skills section is not just about listing random abilities, but about aligning them with the job you're applying for. From tech skills like network troubleshooting to soft skills like teamwork and leadership, this section is where I let my talents shine. The education section, too, needs to focus on key achievements and qualifications, especially those that relate to IT. This module pushed me to relook my CV and tailor it more strategically. This isn’t just job hunting anymore its about stepping into rooms with a document that speaks for you before I  even say a word.
+
+  
 ## 5. CV Submission 
 ### Evidence: 
 
