@@ -15,7 +15,7 @@ I completed the **Business Communication** course, which helped me understand ho
 Through the lessons and quizzes, I learned about different communication types, when to use formal language, and the importance of maintaining a professional tone in business emails.  
 
 **Attached Evidence:**  
-<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/df4e2d88-aaf7-43ac-b9e4-a2a9a0fc4608" />
+<img width="1767" height="843" alt="image" src="https://github.com/user-attachments/assets/42c25909-f4a1-43de-9228-188d5260c9b8" />
 
 ---
 
