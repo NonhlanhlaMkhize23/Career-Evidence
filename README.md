@@ -1,7 +1,7 @@
 # My Digital Portfolio  
 
-- **Name:** Fhumulani Setjie  
-- **Student No.:** 223094889  
+- **Name:** Nonhlanhla Mkhize  
+- **Student No.:** 230070892  
 - **Course:** Diploma in Information and Communication Technology in Communication Networks  
 
 As a passionate IT student with a strong interest in Linux, networking, cybersecurity, and cloud computing, this portfolio reflects my growth and preparation for entering the tech industry. It showcases evidence of my development and personal reflections from the Work Readiness Training module.  
@@ -15,7 +15,7 @@ I completed the **Business Communication** course, which helped me understand ho
 Through the lessons and quizzes, I learned about different communication types, when to use formal language, and the importance of maintaining a professional tone in business emails.  
 
 **Attached Evidence:**  
-📎 <img width="1708" height="676" alt="image" src="https://github.com/user-attachments/assets/258ca951-2c73-48cb-9309-bbd6521c6f50" />
+<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/125583f8-5013-4059-8be4-01393c1f231b" />
 
 ---
 
@@ -36,7 +36,7 @@ The quizzes tested my knowledge on answering questions such as *“Tell me about
 I completed the course with a **100% score**, showing strong comprehension of the interview process and techniques.
 
 **Attached Evidence:**  
-📎 <img width="1615" height="952" alt="image" src="https://github.com/user-attachments/assets/97a7eadc-3899-4f1c-9e55-da073264b2a6" />
+<img width="1280" height="637" alt="image" src="https://github.com/user-attachments/assets/356d5aef-0274-4db9-bc45-670ec55c13eb" />
 
 ---
 
@@ -52,10 +52,10 @@ I completed the course with a **100% score**, showing strong comprehension of th
 
 ### Evidence  
 I submitted a mock interview video to demonstrate my interview delivery, body language, and response structure.  
-You can watch it [here](https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/blob/bd63b791e5cf1cea0db253144e0071da0616400f/Mock%20Interview(2).mp4).  
+You can watch it [here]https://github.com/wil-it2025/cv-tutorial-NonhlanhlaMkhize23/blob/56ed470de6a583f43b430086a643822534017109/Mock%20Interview.mp4.  
 
 <video width="640" controls>
-  <source src="https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/blob/bd63b791e5cf1cea0db253144e0071da0616400f/Mock%20Interview(2).mp4" type="video/mp4">
+  <source src="https://github.com/wil-it2025/cv-tutorial-NonhlanhlaMkhize23/blob/56ed470de6a583f43b430086a643822534017109/Mock%20Interview.mp4">
   Your browser does not support the video tag.
 </video>  
 
@@ -78,7 +78,7 @@ I also learned how to create and maintain professional relationships through pla
 I achieved a **100% score**, showing my clear understanding of how professional networking supports career growth and future opportunities.  
 
 **Attached Evidence:**  
-📎 <img width="1633" height="898" alt="image" src="https://github.com/user-attachments/assets/44f1b7da-73d4-457d-82c9-6d1679612aaf" />
+<img width="1280" height="627" alt="image" src="https://github.com/user-attachments/assets/dd43df92-61a8-4e18-9159-4b50f4d19c4d" />
 
 ---
 
@@ -98,7 +98,7 @@ I learned how to respond professionally to difficult messages, respect workplace
 I achieved a **100% score** after completing all lessons and quizzes, which shows my understanding of appropriate workplace behavior.  
 
 **Attached Evidence:**  
-📎 <img width="1640" height="807" alt="Screenshot 2025-10-13 201212" src="https://github.com/user-attachments/assets/b6fd565b-80ef-4e07-a3c7-e115d291da12" />
+<img width="1280" height="607" alt="image" src="https://github.com/user-attachments/assets/5ffbdb27-60f6-495c-af0d-e2c6b825c13d" />
 
 ---
 
