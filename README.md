@@ -1,7 +1,7 @@
 # My Digital Portfolio  
 
-- **Name:** Nobhlanhla Mkhize
-- **Student No.:** 230070892
+- **Name:** Fhumulani Setjie  
+- **Student No.:** 223094889  
 - **Course:** Diploma in Information and Communication Technology in Communication Networks  
 
 As a passionate IT student with a strong interest in Linux, networking, cybersecurity, and cloud computing, this portfolio reflects my growth and preparation for entering the tech industry. It showcases evidence of my development and personal reflections from the Work Readiness Training module.  
@@ -15,7 +15,7 @@ I completed the **Business Communication** course, which helped me understand ho
 Through the lessons and quizzes, I learned about different communication types, when to use formal language, and the importance of maintaining a professional tone in business emails.  
 
 **Attached Evidence:**  
-<img width="1767" height="843" alt="image" src="https://github.com/user-attachments/assets/42c25909-f4a1-43de-9228-188d5260c9b8" />
+📎 <img width="1708" height="676" alt="image" src="https://github.com/user-attachments/assets/258ca951-2c73-48cb-9309-bbd6521c6f50" />
 
 ---
 
@@ -36,7 +36,7 @@ The quizzes tested my knowledge on answering questions such as *“Tell me about
 I completed the course with a **100% score**, showing strong comprehension of the interview process and techniques.
 
 **Attached Evidence:**  
-<img width="1280" height="637" alt="image" src="https://github.com/user-attachments/assets/c2e78b41-36ea-4db6-a03d-7cd095dfe118" />
+📎 <img width="1615" height="952" alt="image" src="https://github.com/user-attachments/assets/97a7eadc-3899-4f1c-9e55-da073264b2a6" />
 
 ---
 
@@ -52,10 +52,10 @@ I completed the course with a **100% score**, showing strong comprehension of th
 
 ### Evidence  
 I submitted a mock interview video to demonstrate my interview delivery, body language, and response structure.  
-You can watch it [here](https://github.com/wil-it2025/cv-tutorial-NonhlanhlaMkhize23/blob/56ed470de6a583f43b430086a643822534017109/Mock%20Interview.mp4).  
+You can watch it [here](https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/blob/bd63b791e5cf1cea0db253144e0071da0616400f/Mock%20Interview(2).mp4).  
 
 <video width="640" controls>
-  <source src="https://github.com/wil-it2025/cv-tutorial-NonhlanhlaMkhize23/blob/56ed470de6a583f43b430086a643822534017109/Mock%20Interview.mp4>
+  <source src="https://github.com/wil-it2025/cv-tutorial-Fhumulani-sys/blob/bd63b791e5cf1cea0db253144e0071da0616400f/Mock%20Interview(2).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>  
 
@@ -78,7 +78,7 @@ I also learned how to create and maintain professional relationships through pla
 I achieved a **100% score**, showing my clear understanding of how professional networking supports career growth and future opportunities.  
 
 **Attached Evidence:**  
-<img width="1280" height="627" alt="image" src="https://github.com/user-attachments/assets/60832878-b37c-4036-b325-e1f376849968" />
+📎 <img width="1633" height="898" alt="image" src="https://github.com/user-attachments/assets/44f1b7da-73d4-457d-82c9-6d1679612aaf" />
 
 ---
 
@@ -98,7 +98,7 @@ I learned how to respond professionally to difficult messages, respect workplace
 I achieved a **100% score** after completing all lessons and quizzes, which shows my understanding of appropriate workplace behavior.  
 
 **Attached Evidence:**  
-<img width="1280" height="607" alt="image" src="https://github.com/user-attachments/assets/72e32a0a-28fd-4483-be24-4e9320b198be" />
+📎 <img width="1640" height="807" alt="Screenshot 2025-10-13 201212" src="https://github.com/user-attachments/assets/b6fd565b-80ef-4e07-a3c7-e115d291da12" />
 
 ---
 
@@ -114,10 +114,10 @@ I achieved a **100% score** after completing all lessons and quizzes, which show
 
 Completing the **Work Readiness Training** helped me understand what it takes to transition from being a student to a professional in the IT industry.  
 Through the different modules  **Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette** I developed both soft and professional skills that will guide me in real-world work environments.  
- 
+
 This portfolio shows how I’ve grown in my confidence, communication, and professionalism.  
 It also helped me discover how to present myself better during interviews, build valuable professional connections, and maintain ethical conduct in the workplace.  
 
-Overall, this experience prepared me for the next stage of my career in **networking, cybersecurity, and cloud computing**, and gave me the tools to succeed both technically and professionally.   
+Overall, this experience prepared me for the next stage of my career in **networking, cybersecurity, and cloud computing**, and gave me the tools to succeed both technically and professionally.  
 
 ---
