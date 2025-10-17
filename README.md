@@ -114,7 +114,7 @@ I achieved a **100% score** after completing all lessons and quizzes, which show
 
 Completing the **Work Readiness Training** helped me understand what it takes to transition from being a student to a professional in the IT industry.  
 Through the different modules  **Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette** I developed both soft and professional skills that will guide me in real-world work environments.  
-
+ 
 This portfolio shows how I’ve grown in my confidence, communication, and professionalism.  
 It also helped me discover how to present myself better during interviews, build valuable professional connections, and maintain ethical conduct in the workplace.  
 
