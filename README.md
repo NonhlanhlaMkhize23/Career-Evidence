@@ -118,6 +118,6 @@ Through the different modules  **Business Communication, Interview Skills, Mock 
 This portfolio shows how I’ve grown in my confidence, communication, and professionalism.  
 It also helped me discover how to present myself better during interviews, build valuable professional connections, and maintain ethical conduct in the workplace.  
 
-Overall, this experience prepared me for the next stage of my career in **networking, cybersecurity, and cloud computing**, and gave me the tools to succeed both technically and professionally.  
+Overall, this experience prepared me for the next stage of my career in **networking, cybersecurity, and cloud computing**, and gave me the tools to succeed both technically and professionally.   
 
 ---
